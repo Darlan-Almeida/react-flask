@@ -1,0 +1,127 @@
+{
+    "translation": {
+        "navBar": [
+            {
+                "about me": "sobre",
+                "skills": "Skills",
+                "projects": "projects",
+                "connect": "Let's Connect"
+            }
+        ],
+        "banner": [
+            {
+                "welcome": "welcome to in my portfolio",
+                "I'm": "hi! I am Darlan!",
+                "web developer": "Web Developer",
+                "front-end developer": "Back-End Developer",
+                "icon astronaut with rocket": "astronaut in a rocket",
+                "icon astronaut in front of the computer": "astronaut in front of the computer",
+                "resume" : "Resume"
+            }
+        ],
+        "about me": [
+            {"title" : "About Me"},
+            {
+                "education": "Education",
+                "formation": "Technologist in System for internet"
+            },
+            {
+                "experiences": "Work EXP",
+                "professional experiences": "I actively participated in academic projects and research, developing practical applications and using relevant technologies. Moreover, I integrated these experiences into my work, automating my tasks as an administrative assistant."
+            },
+            {
+                "hobbies": "Hobbies",
+                "my hobbies": "Games, Songs, Gym and Programming are things of my day to day"
+            }
+        ],
+        "skills": [
+            {
+                "red planet": "red planet"
+            },
+            {
+                "tecsSlideRowOne": {
+                    "descritionCSS": "Cascading Style Shell (CSS) is a style sheet language",
+                    "descritionHTML": "Hypertext Markup Language which is the structure of a web page",
+                    "descritionJS": "JavaScript is a programming language that drives the web"
+                },
+                "tecsSlideRowTwo": {
+                    "descritionPython": "High-level programming language",
+                    "descritionGit": "It is the most widely used open-source version control system in the world today!",
+                    "descritionFlask": "Framework used for web systems",
+                    "descritionGithub": "It is the most widely used code repository system in the world today!",
+                    "descritionDjango": "Framework used for web systems"
+                }
+            }
+        ],
+        "projects": [
+            {
+                "rocky planet": "Rocky planet",
+                "projects and certificates": "These are some academic projects and certificates",
+                "personal projects": "Personal Projects",
+                "certificates": "Certificates"
+            },
+            {
+                "tech_vocacional": {
+                    "title": "Tech-vocational",
+                    "descrition": "Website developed in Flask using Python with Machine Learning to conduct vocational tests in the IT field."
+                },
+                "nuca": {
+                    "title": "ChatNuca" ,
+                    "descrition": "Website and chatbot developed for an institution, in which Google's Dialogflow integrated with a Python web service was used to respond to some messages."
+                },
+                "carteira": {
+                    "title": "Administrative Wallet" ,
+                    "descrition": "Project developed in Python implementing SQL connections that consists of creating a wallet that assists in financial management, displaying balances, purchases, and details."
+                },
+                "gestao_rh": {
+                    "title": "HR Management",
+                    "descrition": "System that allows creating, editing, and deleting employees and their data. The application also provides important information about the employee group, such as payroll."
+                }
+            },
+            {
+                "informatica": {
+                    "title": "Computer Science Technician",
+                    "descrition": "Completed at IFPB over a period of 3 years."
+                },
+                "robotica": {
+                    "title": "Robotics",
+                    "descrition": "Development of embedded systems, conducted at IFPB."
+                },
+                "ingles": {
+                    "title": "Basic English",
+                    "descrition": "64-hour FIC English course offered by IFPB."
+                },
+                "expotec": {
+                    "title": "expotec",
+                    "descrition": "Participation in the technology event with the theme of innovation and Artificial Intelligence"
+                }
+            }
+        ],
+        "contact": [
+            {
+                "get in touch": "Get in Touch"
+            },
+            {
+                "boxs informations": {
+                    "location": "Location"
+                },
+                "send message": {
+                    "your name": "Your Name...",
+                    "your e-mail": "Your E-mail...",
+                    "your message": "Your Message...",
+                    "send form": "Send Message",
+                    "fill in all fields": "Fill in all fields",
+                    "success": "Message sent successfully !!",
+                    "erro": "Error sending message, try again!!"
+                }
+            }
+        ],
+        "footer": [
+            {
+                "my logo": "my logo"
+                
+                
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "translation": {
+        "navBar": [
+            {
+                "about me": "Sobre",
+                "skills": "Habilidades",
+                "projects": "Projetos",
+                "connect": "Vamo Conectar"
+            }
+        ],
+        "banner": [
+            {
+                "welcome": "Bem vindo ao meu portfólio!",
+                "I'm": "Oi! Me chamo Darlan,",
+                "web developer": "Desenvolvedor Web",
+                "front-end developer": "Desenvolvedor Back-end",
+                "icon astronaut with rocket": "astronauta em um foquete",
+                "icon astronaut in front of the computer": "astronauta de frente o computador",
+                "resume" : "Currículo"
+            }
+        ],
+        "about me": [
+            {"title": "Sobre Mim"},
+            {
+                "education": "Educação",
+                "formation": "Tecnologia em sistemas para internet"
+            },
+            {
+                "experiences": "EXP Profissonal",
+                "professional experiences": "Participei ativamente de projetos acadêmicos e pesquisas, desenvolvendo aplicações práticas e utilizando tecnologias relevantes. Além disso, integrei essas experiências ao meu trabalho, automatizando minhas tarefas de assistente administrativo."
+            },
+            {
+                "hobbies": "Hobbies",
+                "my hobbies": "Games, músicas, leitura, acadêmia e programação são coisas do meu dia a dia"
+            }
+        ],
+        "skills": [
+            {
+                "planet red": "planeta vermelho"
+            },
+            {
+                "tecsSlideRowOne": {
+                    "descritionCSS": "Cascading Style Shell é uma linguagem de folha de estilos",
+                    "descritionHTML": "Linguagem de Marcação de Hipertexto que é a estrutura de uma página web",
+                    "descritionJS": "JavaScript é uma linguagem de programação que impulsiona a web"
+                },
+                "tecsSlideRowTwo": {
+                "descritionPython": "Linguagem de programação de alto nível",
+                "descritionGit": "É o sistema de controle de versão de código aberto mais amplamente usado no mundo hoje!",
+                "descritionFlask": "Framework usado para sistemas web",
+                "descritionGithub": "É o sistema de repositório de código mais amplamente usado no mundo hoje!",
+                "descritionDjango": "Framework usado para sistemas web" 
+                }
+            }
+        ],
+        "projects": [
+            {
+                "rocky planet": "planeta rochoso",
+                "projects and certificates": "Esse são alguns projetos e certificados acadêmicos",
+                "personal projects": "Projetos pessoais",
+                "certificates": "Certificados"
+            },
+            {
+                "tech_vocacional": {
+                    "title": "Tech-vocacional",
+                    "descrition": "Site desenvolvido em Flask usando python com Machine Learning para realizar teste vocacional na área de TI."
+                },
+                "nuca": {
+                    "title": "ChatNuca" ,
+                    "descrition": "Site e chatbot desenvolvido para uma instituição, na qual foi usado o dialogflow da google integrado a um webservice python para responder algumas mensagens "
+                },
+                "carteira": {
+                    "title": "carteira administradora" ,
+                    "descrition": "Projeto desenvolvido em python implementando conexões SQL que consiste em criar uma carteira que auxilia no controle financeiro, exibindo saldo, compras e detalhes "
+                },
+                "gestao_rh": {
+                    "title": "Gestão de RH",
+                    "descrition": "Sistema que permite criar, editar e excluir funcióanarios e dados deles. A aplicação também retorna informações importantes sobre o grupo de empregados, por exemplo, a folha salarial"
+                }
+            },
+            {
+                "informatica": {
+                    "title": "Técnico em informática",
+                    "descrition": "Realizado pelo IFPB no período de 3 anos"
+                },
+                "robotica": {
+                    "title": "Robótica",
+                    "descrition": "Desenvolvimento de sistemas embarcados, realizado no IFPB"
+                },
+                "ingles": {
+                    "title": "Inglês Básico",
+                    "descrition": "Curso FIC de 64h de inglês ministrado pelo IFPB"
+                },
+                "expotec": {
+                    "title": "expotec",
+                    "descrition": "Participação no evento de tecnologia com o tema de inovação e Inteligência Artificial"
+                }
+
+
+               
+            }
+        ],
+        "contact": [
+            {
+                "get in touch": "Entrar em Contato"
+            },
+            {
+                "boxs informations": {
+                    "location": "Localização"
+                },
+                "send message": {
+                    "your name": "Seu Nome...",
+                    "your e-mail": "Seu E-mail...",
+                    "your message": "Sua Mensagem...",
+                    "send form": "Enviar Mensagem",
+                    "fill in all fields": "Preencha todos os campos",
+                    "success": "Mensagem enviada com sucesso!!",
+                    "erro": "Erro ao enviar a menagem, tente novamente!!"
+                }
+            }
+        ],
+        "footer": [
+            {
+                
+                "copyright": " "
+            }
+        ]
+    }
+}
